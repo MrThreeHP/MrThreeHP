@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MrThreeHP
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning the ways of code
